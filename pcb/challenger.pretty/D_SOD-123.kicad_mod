@@ -1,0 +1,236 @@
+(footprint "D_SOD-123"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "SOD-123")
+	(tags "SOD-123")
+	(property "Reference" "REF**"
+		(at 3.81 -2 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d9e6d579-c2a8-42a0-8a80-ff0078b42c0f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D_SOD-123"
+		(at 3.81 2.1 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1e87cca6-58e4-4b46-a320-496d4637676a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 3.81 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a5cc9b52-97fd-4a14-b8a0-c8ef457e8e37")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 3.81 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa6b50d5-bd88-496d-806f-0881a1bdb2db")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 3.06 0)
+		(end 3.46 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2a0dd49f-0f79-4b7b-8814-15902e9b3e61")
+	)
+	(fp_line
+		(start 3.46 0)
+		(end 3.46 -0.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "55cf75e2-f70d-4851-9889-5ca2720a63ba")
+	)
+	(fp_line
+		(start 3.46 0)
+		(end 3.46 0.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "05721d96-2d04-47ad-ad99-90e364874f9e")
+	)
+	(fp_line
+		(start 3.46 0)
+		(end 4.06 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c2df6231-873c-4b67-ac46-7701c63cf93f")
+	)
+	(fp_line
+		(start 4.06 -0.4)
+		(end 4.06 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a009f369-efde-4afd-ba5c-3113108f9b01")
+	)
+	(fp_line
+		(start 4.06 0)
+		(end 4.56 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d1bf3240-b86c-41a8-b3d7-2f3f7a43752e")
+	)
+	(fp_line
+		(start 4.06 0.4)
+		(end 3.46 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "18ad4056-f8c2-49dd-87e8-03073de9a9e3")
+	)
+	(fp_line
+		(start 1.46 -1.15)
+		(end 1.46 1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3b4cd088-d41e-4806-9e6f-9b45e37abff9")
+	)
+	(fp_line
+		(start 1.46 -1.15)
+		(end 6.16 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3ea39463-fcb2-43c5-a0c5-56f2d0c42fe9")
+	)
+	(fp_line
+		(start 6.16 -1.15)
+		(end 6.16 1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "da507d52-af97-4d8d-8e5e-1656cc1b1e81")
+	)
+	(fp_line
+		(start 6.16 1.15)
+		(end 1.46 1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "03cdafff-2d37-4ffb-bf2f-f84f5f53c767")
+	)
+	(fp_line
+		(start 2.41 -0.9)
+		(end 5.21 -0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0731b5e3-4d80-41f0-afea-5ea12a71c394")
+	)
+	(fp_line
+		(start 2.41 0.9)
+		(end 2.41 -0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f6a2ca05-9627-44c5-8767-7244c3c2d7ef")
+	)
+	(fp_line
+		(start 5.21 -0.9)
+		(end 5.21 0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "83d05994-cdff-4297-b544-d9539ba0283c")
+	)
+	(fp_line
+		(start 5.21 0.9)
+		(end 2.41 0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c8da2b76-f7f5-4247-b319-7d9156de7ba4")
+	)
+	(pad "1" smd roundrect
+		(at 2.16 0)
+		(size 0.9 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "ea403f37-e1a8-4975-9f3b-cc546aae04bb")
+	)
+	(pad "2" smd roundrect
+		(at 5.46 0)
+		(size 0.9 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "82b05852-daf8-4223-a410-5b9432119dcd")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+		(offset
+			(xyz 3.81 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

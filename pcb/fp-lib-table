@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "challenger") (type "KiCad") (uri "${KIPRJMOD}/challenger.pretty") (options "") (descr ""))
+)
