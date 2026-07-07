@@ -6301,7 +6301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:Panasonic_EVQPUJ_EVQPUA"
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 167.64 142.24 0)
 			(hide yes)
 			(show_name no)
