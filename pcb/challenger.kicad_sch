@@ -3994,7 +3994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 99.06 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -4178,7 +4178,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 73.66 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -4445,7 +4445,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 35.56 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4982,7 +4982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 86.36 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -5062,7 +5062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 73.66 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -5142,7 +5142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 60.96 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -5222,7 +5222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 73.66 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -5589,7 +5589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 60.96 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5773,7 +5773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 124.46 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5957,7 +5957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 124.46 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -6141,7 +6141,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 99.06 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -6221,7 +6221,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 124.46 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -6301,7 +6301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
+		(property "Footprint" "challenger:Panasonic_EVQPUL_EVQPUC"
 			(at 167.64 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -6381,7 +6381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 99.06 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -6565,7 +6565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 60.96 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -6957,7 +6957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 124.46 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7245,7 +7245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.50u"
+		(property "Footprint" "challenger:Hotswap_MX_1.50u"
 			(at 111.76 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -7624,7 +7624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 60.96 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -7704,7 +7704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 86.36 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -7784,7 +7784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 35.56 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7979,7 +7979,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 48.26 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -8059,7 +8059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 111.76 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -8243,7 +8243,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 111.76 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8506,7 +8506,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 86.36 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -8586,7 +8586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 48.26 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -8770,7 +8770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 48.26 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9241,7 +9241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 48.26 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9321,7 +9321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 86.36 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -9505,7 +9505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 111.76 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9664,7 +9664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 111.76 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -9744,7 +9744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 60.96 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10007,7 +10007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 86.36 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10166,7 +10166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 99.06 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10454,7 +10454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 73.66 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -10846,7 +10846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 48.26 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -11238,7 +11238,7 @@
 				)
 			)
 		)
-		(property "Footprint" "challenger:SW_Hotswap_Kailh_MX_1.00u"
+		(property "Footprint" "challenger:Hotswap_MX_1.00u"
 			(at 99.06 58.42 0)
 			(hide yes)
 			(show_name no)
