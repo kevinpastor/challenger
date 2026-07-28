@@ -1,0 +1,6 @@
+if SHIELD_CHALLENGER
+
+config ZMK_KEYBOARD_NAME
+    default "Challenger"
+
+endif

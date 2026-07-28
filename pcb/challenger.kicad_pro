@@ -568,8 +568,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "gerber/",
+      "plot": "/home/kevin/repositories/kebskeebs.com/",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -692,7 +693,7 @@
         "uuid": "27f2e0df-5d5b-4fb8-8428-fd7c71adc020"
       }
     ],
-    "used_designators": "Display1,BT1,#PWR1-9,D1-70,SW1-42,U1",
+    "used_designators": "U1,SW1-42,D1-70,#PWR1-9,BT1,Display1",
     "variants": []
   },
   "sheets": [

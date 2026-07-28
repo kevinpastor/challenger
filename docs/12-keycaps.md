@@ -1,0 +1,11 @@
+Previous: [Switches, Switch Plate & Case Assembly](11-switches-and-case.md)
+
+# 12. Keycaps
+
+![Keycaps installed on the switches](../assets/12-keycaps.jpg)
+
+Line up each keycap with its switch stem and press down firmly until it clicks into place. That's it.
+
+---
+
+Next: [Flashing Firmware](13-firmware.md)

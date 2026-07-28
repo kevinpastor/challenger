@@ -54,6 +54,10 @@ M2 x 4 mm screws might be able to be used instead of the M2 x 5 mm screws.
 
 M2 x 4 mm screws might be able to be used instead of the M2 x 5 mm screws.
 
+## Build
+
+See the [build guide](docs/index.md) for step-by-step assembly instructions.
+
 ## Firmware
 
 Built with [ZMK](https://zmk.dev).
