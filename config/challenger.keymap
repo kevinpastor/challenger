@@ -27,7 +27,7 @@
 
         third {
             bindings = <
-                         &trans    &trans    &trans    &trans    &trans    &trans    &trans
+                         &studio_unlock &trans    &trans    &trans    &trans    &trans    &trans
                          &trans    &trans    &trans    &trans    &trans    &trans    &trans
                          &trans    &trans    &trans    &trans    &trans    &trans    &trans
                 &kp F9   &trans    &trans    &trans    &trans    &trans    &trans    &trans
