@@ -10,8 +10,28 @@
                          &kp ESC   &kp N1    &kp N2    &kp N3    &kp N4    &kp N5    &kp N6
                          &kp TAB   &kp Q     &kp W     &kp E     &kp R     &kp T     &kp N7
                          &kp CAPS  &kp A     &kp S     &kp D     &kp F     &kp G     &kp N8
-                &kp UP   &kp LSHFT &kp Z     &kp X     &kp C     &kp V     &kp B     &kp N9
-                &kp DOWN &kp LCTRL &kp LALT            &kp DOWN  &kp UP    &kp SPACE
+                &none    &kp LSHFT &kp Z     &kp X     &kp C     &kp V     &kp B     &kp N9
+                &none    &kp LCTRL &kp LALT            &mo 2     &mo 1     &kp SPACE
+            >;
+        };
+
+        second {
+            bindings = <
+                         &trans    &kp F1    &kp F2    &kp F3    &kp F4    &kp F5    &kp F6
+                         &trans    &kp P     &kp O     &kp I     &kp U     &kp Y     &kp F7
+                         &trans    &trans    &kp L     &kp K     &kp J     &kp H     &kp F8
+                &trans   &trans    &trans    &trans    &trans    &kp M     &kp N     &kp F9
+                &trans   &trans    &trans              &trans    &trans    &kp SPACE
+            >;
+        };
+
+        third {
+            bindings = <
+                         &trans    &trans    &trans    &trans    &trans    &trans    &trans
+                         &trans    &trans    &trans    &trans    &trans    &trans    &trans
+                         &trans    &trans    &trans    &trans    &trans    &trans    &trans
+                &kp F9   &trans    &trans    &trans    &trans    &trans    &trans    &trans
+                &kp LGUI &trans    &trans              &trans    &trans    &kp SPACE
             >;
         };
     };
