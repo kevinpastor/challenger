@@ -1,6 +1,6 @@
 ---
 include:
   - board: nice_nano@2.0.0
-    shield: challenger
+    shield: challenger nice_view
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
