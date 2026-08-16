@@ -4,3 +4,10 @@ config ZMK_KEYBOARD_NAME
     default "Challenger"
 
 endif
+
+if BOARD_NICE_NANO_V2 && SHIELD_CHALLENGER
+
+config SPI
+    default y
+
+endif
