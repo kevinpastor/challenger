@@ -1,6 +1,6 @@
 ---
 include:
-  - board: nrfmicro@1.1.0/nrf52840/flipped_zmk
+  - board: nrfmicro@1.3.0/nrf52840/zmk
     # shield: challenger nice_view_adapter nice_view
     shield: challenger nice_view
     snippet: studio-rpc-usb-uart
