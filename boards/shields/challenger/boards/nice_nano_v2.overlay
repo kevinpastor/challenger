@@ -26,6 +26,7 @@
         height = <32>;
         segment-offset = <0>;
         page-offset = <0>;
+        display-offset = <0>;
         segment-remap;
         com-invdir;
         status = "okay";
