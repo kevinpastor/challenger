@@ -1,33 +1,36 @@
 if SHIELD_CHALLENGER
 
-config ZMK_KEYBOARD_NAME
-    default "Challenger"
+    config ZMK_KEYBOARD_NAME
+        default "Challenger"
 
-if ZMK_DISPLAY
+    if ZMK_DISPLAY
 
-config I2C
-    default y
+        config I2C
+            default y
 
-config SSD1306
-    default y
+        config SSD1306
+            default y
 
-endif # ZMK_DISPLAY
+    endif # ZMK_DISPLAY
 
-if LVGL
+    if LVGL
 
-config LV_Z_VDB_SIZE
-    default 64
+        config LV_Z_VDB_SIZE
+            default 64
 
-config LV_DPI_DEF
-    default 148
+        config LV_DPI_DEF
+            default 148
 
-config LV_Z_BITS_PER_PIXEL
-    default 1
+        config LV_Z_BITS_PER_PIXEL
+            default 1
 
-choice LV_COLOR_DEPTH
-    default LV_COLOR_DEPTH_1
-endchoice
+        choice LV_COLOR_DEPTH
+            default LV_COLOR_DEPTH_1
+        endchoice
 
-endif # LVGL
+    endif # LVGL
+
+    config CHALLENGER_HAS_NICE_VIEW_SHIELD
+        def_bool $(shields_list_contains,nice_view)
 
 endif # SHIELD_CHALLENGER
