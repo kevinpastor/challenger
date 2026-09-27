@@ -1,5 +1,4 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include <zephyr/sys/util.h>
 #include "challenger-layouts.dtsi"
 
 / {
@@ -48,7 +47,7 @@
     };
 };
 
-#if IS_ENABLED(CONFIG_CHALLENGER_HAS_NICE_VIEW_SHIELD)
+#ifdef CONFIG_CHALLENGER_HAS_NICE_VIEW_SHIELD
 // Taken from the nice_view_adapter shield, with the only change being the CS GPIO pin, changed from 1 to 0 to match the
 // Challenger shield's wiring.
 &pinctrl {
